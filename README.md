@@ -42,9 +42,7 @@ Welcome to **Frosty Delights**, a fun and simple responsive ice cream store webs
 
 ## 🚀 Live Site
 
-🔗 [Click here to visit the live website](https://yourusername.github.io/IceCreamStore/)
-
-> Replace `yourusername` with your actual GitHub username once deployed.
+🔗 [Click here to visit the live website](https://tanishamajmundar.github.io/ice-cream-website/)
 
 ---
 
