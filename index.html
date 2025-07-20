@@ -6,9 +6,13 @@
   <meta name="description" content="Delicious handcrafted ice creams from Frosty Delights. Explore our flavors and get in touch!" />
   <title>Ice Cream Store</title>
   <link rel="stylesheet" href="style.css" />
-  <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Quicksand:wght@400;600&display=swap" rel="stylesheet">
-  <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/3132/3132693.png" type="image/png">
-
+  <link rel="icon" href="https://emojiapi.dev/api/v1/1f366/32.png" type="image/png">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+  </style>
 </head>
 <body>
 
@@ -65,10 +69,10 @@
   <!-- Contact Section -->
   <section id="contact" class="section">
     <h3>Get in Touch </h3>
-    <form class="contact-form">
-      <input type="text" placeholder="Your Name" required />
-      <input type="email" placeholder="Your Email" required />
-      <textarea placeholder="Your Message" rows="4" required></textarea>
+    <form class="contact-form" action="https://formspree.io/f/yourID" method="POST">
+      <input type="text" placeholder="Your Name" name="name" required />
+      <input type="email" placeholder="Your Email" name="email" required />
+      <textarea placeholder="Your Message" name="message" rows="4" required></textarea>
       <button type="submit">Send Message</button>
     </form>
   </section>
@@ -78,6 +82,5 @@
     <p>&copy; 2025 Ice Cream Store. All rights reserved.</p>
     <p>Created by Tanisha Majmundar | Enrollment No: 202307020117</p>
   </footer>
-
 </body>
 </html>
