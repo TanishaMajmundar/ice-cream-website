@@ -64,3 +64,8 @@ Welcome to **Frosty Delights**, a fun and simple responsive ice cream store webs
 
 ## 📁 Project Folder Structure
 
+IceCreamStore/
+├── index.html
+├── style.css
+├── screenshot.png
+├── README.md
