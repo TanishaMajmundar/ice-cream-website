@@ -34,9 +34,7 @@ Welcome to **Frosty Delights**, a fun and simple responsive ice cream store webs
 
 ## 📸 Preview
 
-![Website Screenshot](https://via.placeholder.com/1000x500?text=Ice+Cream+Store+Website+Preview)
-
-> Replace the above image with a real screenshot after hosting
+![Website Screenshot](https://github.com/TanishaMajmundar/ice-cream-website/blob/main/screenshot.png)
 
 ---
 
