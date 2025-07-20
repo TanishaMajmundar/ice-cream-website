@@ -1,7 +1,7 @@
 /* Base Styles */
 body {
   margin: 0;
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   background-color: #fffafc;
   color: #5a2a42;
 }
@@ -20,6 +20,7 @@ a {
 
 h1, h2, h3 {
   color: #d63384;
+  font-family: 'Pacifico', cursive;
 }
 
 header {
